@@ -1,0 +1,37 @@
+@media only screen and (max-width: 600px){
+    body{
+        background: #141414;
+    }
+}
+
+
+body{
+    background: #141414;
+    width: 100vw;
+  height: 50vh;
+}
+
+#img{
+    margin-top: 30px;
+    box-shadow: 0 0 20px rgb(103, 230, 145);
+    border-radius: 30px;
+}
+
+#text-input:hover{
+    border: 1px blue;
+}
+
+#voice-select:hover{
+    border: 1px blue;
+}
+
+.btn{
+    margin-top: 50px;
+    text-align: center;
+    box-shadow: 0 0 30px rgb(103, 230, 145);
+  border-radius: 30px;
+}
+.btn:hover{
+    border: 1px blue;
+
+}
